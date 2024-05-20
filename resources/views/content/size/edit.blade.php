@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    {{ __('Update') }} Color
+    {{ __('Update') }} Size
 @endsection
 
 @section('content')
@@ -10,7 +10,7 @@
 
         <div class="card mb-4">
             <h5 class="card-header">
-                {{ __('Update') }} Color
+                {{ __('Update') }} Size
             </h5>
             <form class="card-body" method="POST" action="{{ route('sizes.update', $size->id) }}" role="form"
                 enctype="multipart/form-data">

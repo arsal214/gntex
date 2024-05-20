@@ -15,7 +15,7 @@
     </a>
 </li>
 
-<li class="menu-item @if (str_contains($url, '/subscriptions')) active @endif">
+<li class="menu-item @if (str_contains($url, '/sizes')) active @endif">
     <a href="{{route('sizes.index')}}" class="menu-link">
         <i class="menu-icon tf-icons mdi mdi-cash-check"></i>
         <div data-i18n="Sizes">Sizes</div>
