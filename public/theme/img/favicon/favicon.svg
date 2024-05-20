@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Fav_Icon" data-name="Fav Icon" transform="translate(19327 565)">
+    <rect id="Rectangle_4844" data-name="Rectangle 4844" width="16" height="16" rx="3" transform="translate(-19327 -565)" fill="#fff"/>
+    <g id="Group_22067" data-name="Group 22067" transform="translate(-19325 -566.692)">
+      <path id="Path_23100" data-name="Path 23100" d="M26.561,12.339c-.05,0-.089.033-.113.11s-.018.065-.03.1c-.223.757-.757,1.782-1.592,1.782-.74,0-.986-.594-.986-1.741V7.3c0-.3-.11-.478-.345-.478H22.415c-.223,0-.345.175-.345.478v6.176c0,1.69.959,2.852,2.376,2.852a2.743,2.743,0,0,0,2.376-1.467,5.391,5.391,0,0,0,.654-1.625,1.239,1.239,0,0,0,.036-.226C27.521,12.814,26.671,12.339,26.561,12.339Z" transform="translate(-15.503 -1.652)"/>
+      <path id="Path_23101" data-name="Path 23101" d="M-.028,5.22S3.854,9.676,11.26,7.6l-.211,1.47S5.108,11.146-.04,7.656Z" transform="translate(0.039 -0.528)"/>
+    </g>
+  </g>
+</svg>
